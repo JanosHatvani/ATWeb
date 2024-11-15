@@ -1,0 +1,13 @@
+﻿Build started...
+1>------ Build started: Project: Gyártásköv, Configuration: Debug Any CPU ------
+1>C:\Users\hatvani.janos\source\repos\Gyártáskövetés\Gyártásköv\Kerizzítás.cs(27,13,27,26): warning CS0414: The field 'Kerizzítás.Igyártásiidő2' is assigned but its value is never used
+1>C:\Users\hatvani.janos\source\repos\Gyártáskövetés\Gyártásköv\Kerizzítás.cs(22,16,22,32): warning CS0414: The field 'Kerizzítás.Motorlejelentés2' is assigned but its value is never used
+1>C:\Users\hatvani.janos\source\repos\Gyártáskövetés\Gyártásköv\Kerizzítás.cs(21,16,21,32): warning CS0414: The field 'Kerizzítás.Motorlejelentés1' is assigned but its value is never used
+1>C:\Users\hatvani.janos\source\repos\Gyártáskövetés\Gyártásköv\Waxmotor.cs(23,16,23,35): warning CS0414: The field 'Waxmotor.Motorlejelentésfull' is assigned but its value is never used
+1>C:\Users\hatvani.janos\source\repos\Gyártáskövetés\Gyártásköv\Kerizzítás.cs(23,16,23,35): warning CS0414: The field 'Kerizzítás.Motorlejelentésfull' is assigned but its value is never used
+1>C:\Users\hatvani.janos\source\repos\Gyártáskövetés\Gyártásköv\Kerizzítás.cs(26,13,26,26): warning CS0414: The field 'Kerizzítás.Igyártásiidő1' is assigned but its value is never used
+1>C:\Users\hatvani.janos\source\repos\Gyártáskövetés\Gyártásköv\Kerizzítás.cs(24,16,24,27): warning CS0414: The field 'Kerizzítás.Motorselejt' is assigned but its value is never used
+1>C:\Users\hatvani.janos\source\repos\Gyártáskövetés\Gyártásköv\Kerizzítás.cs(20,16,20,22): warning CS0414: The field 'Kerizzítás.Idátum' is assigned but its value is never used
+1>Gyártásköv -> C:\Users\hatvani.janos\source\repos\Gyártáskövetés\Gyártásköv\bin\Debug\net5.0\Gyártásköv.dll
+1>Done building project "Gyártásköv.csproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

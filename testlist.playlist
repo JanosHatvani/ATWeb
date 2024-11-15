@@ -1,0 +1,63 @@
+<Playlist Version="2.0">
+  <Rule Name="Includes" Match="Any">
+    <Rule Match="All">
+      <Property Name="Solution" />
+      <Rule Match="Any">
+        <Rule Match="All">
+          <Property Name="Project" Value="Gyártásköv" />
+          <Rule Match="Any">
+            <Rule Match="All">
+              <Property Name="Namespace" Value="Gyártásköv" />
+              <Rule Match="Any">
+                <Rule Match="All">
+                  <Property Name="Class" Value="TestCase" />
+                  <Rule Match="Any">
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="Gyártásköv.TestCase.Wmtöltet3355töltetextrudálás" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="Wmtöltet3355töltetextrudálás" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="Gyártásköv.TestCase.Wmtöltet3355töltőanyagkeverés" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="Wmtöltet3355töltőanyagkeverés" />
+                      </Rule>
+                    </Rule>
+                  </Rule>
+                </Rule>
+              </Rule>
+            </Rule>
+          </Rule>
+        </Rule>
+        <Rule Match="All">
+          <Property Name="Project" Value="TruMES" />
+          <Rule Match="Any">
+            <Rule Match="All">
+              <Property Name="Namespace" Value="TruMES" />
+              <Rule Match="Any">
+                <Rule Match="All">
+                  <Property Name="Class" Value="Wmtöltetgyrmkoszt" />
+                  <Rule Match="Any">
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="TruMES.Wmtöltetgyrmkoszt.WmtöltetGyrMunkkioszt" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="WmtöltetGyrMunkkioszt" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="TruMES.Wmtöltetgyrmkoszt.Töltetosztályozás" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="Töltetosztályozás" />
+                      </Rule>
+                    </Rule>
+                  </Rule>
+                </Rule>
+              </Rule>
+            </Rule>
+          </Rule>
+        </Rule>
+      </Rule>
+    </Rule>
+  </Rule>
+</Playlist>
